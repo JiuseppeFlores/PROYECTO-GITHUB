@@ -10,7 +10,7 @@
               <td>materno</td>
               <td>genero</td>
               <td>nacionalidad</td>
-              <td>acciones</td>
+              <td>acciones2</td>
             </tr>
           </thead>
           <tbody>
