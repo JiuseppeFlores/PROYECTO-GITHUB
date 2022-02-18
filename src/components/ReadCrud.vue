@@ -10,7 +10,7 @@
               <td>materno</td>
               <td>genero</td>
               <td>nacionalidad</td>
-              <td>acciones2</td>
+              <td>acciones</td>
             </tr>
           </thead>
           <tbody>
@@ -20,7 +20,7 @@
               <td>{{ estudiante.materno }}</td>
               <td>{{ estudiante.genero }}</td>
               <td>{{ estudiante.nacionalidad }}</td>
-              <td><modificar :id_estudiante="estudiante.id" :datos="estudiante"></modificar></td>
+              <td><modificar :id_estudiante="estudiante.id" ></modificar></td>
             </tr>
           </tbody>
         </table>
